@@ -1,3 +1,1 @@
-This is a test for understanding GIT/GITHUB
-
-Testing new branch
+Testing the PUSH/PULL requests
