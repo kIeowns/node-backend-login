@@ -1,1 +1,1 @@
-Testing the PUSH/PULL requests
+First GitHub and Git managed project.
